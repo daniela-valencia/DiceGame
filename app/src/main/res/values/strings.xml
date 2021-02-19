@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="DescriptionLogo">Las Vegas Logo</string>
+    <string name="btn_higher">Higher</string>
+    <string name="btn_lower">Lower</string>
+    <string name="left_dice">Left dice</string>
+    <string name="right_dice">Right dice</string>
+    <string name="message">PLEASE PLAY</string>
+    <string name="player1">PLAYER</string>
+    <string name="player2">COMPUTER</string>
+    <string name="result1">USER WINS</string>
+    <string name="result2">COMPUTER WINS</string>
+    <string name="result3">IT´S A TIE</string>
+
+
+</resources>
